@@ -44,6 +44,6 @@ A [Gruntfile.js][] is available for running a development server, notably the `d
 [Mongodb]: http://www.mongodb.org
 [Mplayer]: http://mplayerhq.hu
 [Bootstrap 3]: http://getbootstrap.com
-[Spectrum image]: ../../blob/master/client/img/spectrum.jpg?raw=true
+[Spectrum image]: ../../blob/master/client/img/spectrum.png?raw=true
 [Jean-Marie Comets]: https://github.com/jmcomets
 [Pierre Turpin]: https://github.com/TurpIF
